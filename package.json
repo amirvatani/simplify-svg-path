@@ -7,11 +7,10 @@
   "files": [
     "index.js",
     "index.d.ts",
-    "index.iife.min.js",
-    "index.min.js"
+    "index.iife.min.js"
   ],
   "type": "module",
-  "main": "index.min.js",
+  "main": "index.js",
   "jsdelivr": "index.iife.min.js",
   "unpkg": "index.iife.min.js",
   "keywords": [
